@@ -609,13 +609,13 @@
     </mask>
     <mask id="H1RI-FGXHe_top_cf-mask" fill="#fff" stroke="#fff">
       <g>
-      <use xlink:href="#H1RI-FGXHe_top_sm"/>
+      <use xlink:href="#H1RI-FGXHe_top_sm" fill="#fff" stroke="#fff"/>
       </g>
     </mask>
     <mask id="H1RI-FGXHe_top_sm-mask" fill="#000" stroke="#000">
       <g>
       <rect x="845" y="970" width="2700" height="2100" fill="#fff"/>
-      <use xlink:href="#H1RI-FGXHe_top_sm"/>
+      <use xlink:href="#H1RI-FGXHe_top_sm" fill="#000" stroke="#000" />
       </g>
     </mask>
   </defs>
