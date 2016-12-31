@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="H1RI-FGXHe_top" version="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" fill-rule="evenodd" clip-rule="evenodd" viewBox="845 970 2700 2100" width="2.7in" height="2.1in">
   <defs>
-    <style>/* <![CDATA[ */.H1RI-FGXHe_fr4 {color: #666;}
+    <style>.H1RI-FGXHe_fr4 {color: #666;}
 .H1RI-FGXHe_cu {color: #ccc;}
 .H1RI-FGXHe_cf {color: #c93;}
-.H1RI-FGXHe_sm {color: rgba(00, 66, 00, 0.75);}
+.H1RI-FGXHe_sm {color: #004200; opacity:0.75;}
 .H1RI-FGXHe_ss {color: #fff;}
 .H1RI-FGXHe_sp {color: #999;}
-.H1RI-FGXHe_out {color: #000;}/* ]]> */</style>
+.H1RI-FGXHe_out {color: #000;}</style>
     <polygon points="30.49994,12.63349 12.63349,30.49994 -12.63349,30.49994 -30.49994,12.63349 -30.49994,-12.63349 -12.63349,-30.49994 12.63349,-30.49994 30.49994,-12.63349" id="ryygLWKGmrl_pad-12"/>
     <polygon points="78.74984,32.61925 32.61925,78.74984 -32.61925,78.74984 -78.74984,32.61925 -78.74984,-32.61925 -32.61925,-78.74984 32.61925,-78.74984 78.74984,-32.61925" id="ryygLWKGmrl_pad-17"/>
     <circle cx="0" cy="0" r="38.4" id="ryygLWKGmrl_pad-18"/>
